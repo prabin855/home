@@ -13,7 +13,7 @@ sleep(1)
 os.system("figlet -f small HomeTermux |lolcat")
 banner = """
 \033[90m==============================================
-\033[1;91m Coded  \033[90m:\033[1;96mFahmiApz
+\033[1;91m Coded  \033[90m:\033[1;96mPrabin
 \033[1;91m Youtube\033[90m:\033[1;96mXmanzID\033[90m/\033[1;96mApmzChannel
 \033[1;91m Github \033[90m:\033[1;96mhttps://github.com/BangDanz
 \033[90m==============================================
